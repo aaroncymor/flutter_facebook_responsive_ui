@@ -1,12 +1,5 @@
-export 'circle_button.dart';
-export 'create_post_container.dart';
-export 'rooms.dart';
-export 'profile_avatar.dart';
-export 'stories.dart';
-export 'post_container.dart';
-export 'custom_tab_bar.dart';
-export 'responsive.dart';
-export 'custom_app_bar.dart';
-export 'user_card.dart';
-export 'contacts_list.dart';
-export 'more_options_list.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/circle_button.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/create_post_container.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/rooms.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/stories.dart';
