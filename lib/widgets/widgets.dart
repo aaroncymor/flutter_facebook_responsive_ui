@@ -5,3 +5,6 @@ export 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
 export 'package:flutter_facebook_responsive_ui/widgets/stories.dart';
 export 'package:flutter_facebook_responsive_ui/widgets/post_container.dart';
 export 'package:flutter_facebook_responsive_ui/widgets/custom_tab_bar.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/responsive.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/custom_app_bar.dart';
+export 'package:flutter_facebook_responsive_ui/widgets/user_card.dart';
